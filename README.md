@@ -156,7 +156,7 @@ This project utilizes a genetic algorithm to evolve a population of binary image
 
 ## 🤝 Contributors
 - [**Faizan Ahmed**](https://github.com/FaizanAhmed44)  
-- [**Faisal Siddique**](https://github.com/Muhammad-Zunain)  
+- [**Faisal Siddique**](https://github.com/FaisalSidd123)  
 - [**Bakhtiar Sabir**]()
 
 ---
